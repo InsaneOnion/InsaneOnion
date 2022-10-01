@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @PunchIine
-- 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Machine Learning, Keyboards, Football and Sleeping
+- 🌱 I’m currently Sleeping
+- 📫 How to reach me https://punchiine.github.io/
 
 <!---
 PunchIine/PunchIine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
