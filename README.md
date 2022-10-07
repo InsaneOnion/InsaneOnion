@@ -3,7 +3,7 @@
 - 🌱 I’m currently Sleeping
 - 📫 You can reach me on https://punchiine.github.io/
 
-![](https://user-images.githubusercontent.com/93063038/194545198-faec145b-3e83-4839-aeda-c7f729feecf2.png)
+![onion](https://user-images.githubusercontent.com/93063038/194547349-36295679-a98b-43f9-9bdf-68df27d020fe.png)
 
 <!---
 PunchIine/PunchIine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
