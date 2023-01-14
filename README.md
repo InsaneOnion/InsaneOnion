@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LazyOnion
-- 👀 I’m interested in Machine-Learning, Keyboards, Football and Sleeping
+- 👀 I’m interested in Machine Learning, Keyboards, Football and Sleeping
 - 😴 I’m currently sleeping Zzz...
 - 📫 You can reach me on https://lazyonion.github.io
 
